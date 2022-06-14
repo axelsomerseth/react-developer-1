@@ -1,3 +1,31 @@
+# React Developer 1
+
+> A developer who is able to effectively use ReactJS to build immersive front-end applications.
+
+## Master the following skills:
+
+1. Able to use the CLI to start a new React application.
+2. Use snippets and template code for new components and common React structures.
+3. Able to route traffic from browser url to components.
+4. Differentiate between the DOM and React’s Virtual DOM.
+5. Able to build reusable components (with and without JSX).
+6. Able to render data using components.
+7. Able to pass components to other components in props.
+8. Able to pass data into components using props.
+9. Able to control component state.
+10. Able to respond to events in elements like click, touch, change.
+11. Able to handle events triggered by components.
+12. Understand and discuss component lifecycle and ways to interact with the component at those different lifecycle stages.
+13. Able to create functional components and knows when they are ideal to use.
+14. Able to build containers or views that utilize many smaller components.
+15. Able to debug a React app.
+16. Able to use 3rd party packages and components.
+17. Able to use inline styles and css to style components.
+18. Able to make “ajax” requests (or http requests) to outside API’s to get and give data.
+19. Able to use data received from outside API’s to populate data in a component (and subsequently on the screen)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
